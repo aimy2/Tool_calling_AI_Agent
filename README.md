@@ -11,7 +11,7 @@ Lightweight agents capable of **task decomposition** and **dynamic tool selectio
 ### 2. Tool Interfaces (APIs)  
 - **🌐 Web Search** → Fetches live information from the internet.  
 - **🧮 Calculator** → Performs basic arithmetic operations.  
-- **📘 Math Word Problem Solver** → Calls a model fine-tuned on the GSM8k dataset.  
+- **📘 Math Word Problem Solver** → Calls a model to reason and solve problems with app3.ipynb is zero-shot and app3-oneshot is one-shot.  
 - **📂 Document Q&A** → Accesses and retrieves information from local PDF, DOCX, or TXT files.  
 
 ---
