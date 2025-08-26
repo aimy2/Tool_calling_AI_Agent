@@ -15,6 +15,13 @@ Lightweight agents capable of **task decomposition** and **dynamic tool selectio
 - **📂 Document Q&A** → Accesses and retrieves information from local PDF, DOCX, or TXT files.  
 
 ---
+### Screenshots
+![Alt text](screenshots/1agent.png)
+![Alt text](screenshots/2agent.png)
+![Alt text](screenshots/3agent.png)
+![Alt text](screenshots/4rag.png)
+![Alt text](screenshots/5rag.png)
+
 
 ## 📦 Installation  
 
