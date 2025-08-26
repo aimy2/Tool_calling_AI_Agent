@@ -3,7 +3,7 @@ Lightweight agents capable of **task decomposition** and **dynamic tool selectio
 
 ## 🚀 System Components  
 
-### 1. Controller Agent  
+### 1. Controller Agent  (Deepseek r1 free api )
 - **Input**: Receives a complex user query.  
 - **Logic**: Uses a master prompt to decompose the query and create a step-by-step plan.  
 - **Action**: Decides which tool to invoke for each step in the plan.  
